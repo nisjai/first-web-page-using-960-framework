@@ -1,0 +1,62 @@
+.container_12
+{
+	background-color:white;
+}
+.title
+{
+	width:700px;
+	margin:auto;
+	color:#0e0f0a;
+	text-align: center;
+	font-family: Impact, fantasy;
+	font-size:28px;
+	text-shadow: 5px 3px 2px #797d7f;
+
+}
+
+h1
+{
+	text-align: center;
+}
+ ul li
+{
+	display:inline;
+}
+ul
+{
+	list-style-type: none;
+	margin:auto;
+	padding:30px;
+	display:block;
+	background-color: #e8edef;
+}
+li a
+{
+	
+	text-decoration: none;
+	font-family: Impact, fantasy;
+	font-size:16px;
+	color:#242625;
+}
+.home
+{
+	background-color:#8eaee5;
+
+}
+
+li a:hover
+{
+	background-color:#4f92ff;
+}
+p
+{
+font-family:Lato,sans-serif;
+display:block;
+line-height:1.8;
+
+color:#82817e;
+}
+.rule
+{
+border-top: 1 px solid gray;
+}
